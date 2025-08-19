@@ -43,10 +43,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no Sesi Guarulhos 427
-- 💻 Estou aprendendo Java, arduino e github
-- 🎯 Meu objetivo é **[Meu maior objetivo é dominar o desenvolvimento web e me destacar como profissional Full Stack, sempre aprendendo e compartilhando conhecimento com a comunidade.
-- 📚 Gosto de aprender sobre Frond-end e Designer
-- ✝ Tudo posso naquele que me fortalece." – Filipenses 4:13
+- 💻 Estou aprendendo Java, arduino e github.
+- 🎯 Meu objetivo é Meu maior objetivo é dominar o desenvolvimento web e me destacar como profissional Full Stack, sempre aprendendo e compartilhando conhecimento com a comunidade 
+- 📚 Gosto de aprender sobre Frond-end e Designer.
+- ✝ Tudo posso naquele que me fortalece." – Filipenses 4:13 ❤
 
 ---
 
