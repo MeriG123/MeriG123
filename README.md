@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou a [Meri]
+# 👋 Olá! Eu sou a Gabriela Meri Giacomini
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de Desenvolvimento de Sistemas e estou aprendendo sobre GitHub, programação e criação de projetos web e mobile. Tenho interesse especial em Front-End.
 
 ---
 
